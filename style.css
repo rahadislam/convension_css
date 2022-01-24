@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400&family=Roboto&display=swap');
+.peck_btn{
+    background: #FEF5FA;
+    padding: 10px 60px;
+}
+.cm_color{
+    
+    color:rgb(34 29 79);
+    
+}
+.cm_color2{
+    color: #848199;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+.top_sel{
+    border-radius: 26px;
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+    background: #3F87F5;
+    
+}
+.topp{
+    padding-top: 90px;
+    padding-bottom: 30px;
+}
+
+.top_bt{
+    position: relative;
+    top: -39px;
+    left: 180px;
+}
