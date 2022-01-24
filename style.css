@@ -1,7 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400&family=Roboto:wght@400;500&display=swap');
 .peck_btn{
     background: #FEF5FA;
     padding: 10px 60px;
+}
+.roboto{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    
 }
 .cm_color{
     
@@ -20,12 +25,28 @@
     
 }
 .topp{
-    padding-top: 90px;
-    padding-bottom: 30px;
+    padding-top: 90px;padding-bottom: 30px;
 }
 
 .top_bt{
     position: relative;
     top: -39px;
     left: 180px;
+}
+.toast_border{
+    border-left: 5px solid rgb(34, 113, 178);
+}
+footer{
+    height: 280px;
+    background-color: #0B0D17;}
+.down{
+    font-size: 13px;
+}
+.color_btn{
+    background-color: black;
+    line-height: 10px;
+    border-radius: 15px;
+}
+.copyrigt{
+    padding-top: 12%;
 }
